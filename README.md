@@ -1,6 +1,6 @@
 # Ecommerce API
 
-Developed a robust Habit Tracker app allowing users to manage multiple habits like reading or gym visits. Implemented three statuses: Done, Not Done, and None for daily tracking. Users can view and edit habit statuses for today and the past 6 days. Includes a bonus feature tracking longest streak and completion statistics. Data is stored in a database, and a default user can be utilized without authentication, enhancing user experience. Inspired by popular habit trackers for intuitive design.
+The E-Commerce API for Product Management is a robust and scalable solution designed to streamline the management of products within an e-commerce platform. This API provides essential functionalities for adding, updating, and deleting products, enabling seamless integration with various front-end applications.
 
 
 ## Prerequisites
